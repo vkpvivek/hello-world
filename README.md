@@ -1,2 +1,7 @@
-# hello-world
-just new repository
+# hello world
+
+voilet
+indigo
+green
+blue
+yellow
