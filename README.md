@@ -5,3 +5,4 @@ indigo
 green
 blue
 yellow
+orange
